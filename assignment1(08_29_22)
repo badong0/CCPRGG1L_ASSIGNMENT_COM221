@@ -1,0 +1,10 @@
+public class main {
+    public static void main(String [] args) {
+
+        String text1 = "Hello World";
+        String text2 = "This is my coded assignment CCPRGG1L_ASSIGNMENT_COM221";
+
+        System.out.println(text1);        
+    }
+    
+}
